@@ -1,26 +1,12 @@
-# `TasX`
-> 
->TasX is a Desktop Task organizer which will remind you about your Tasks / deadlines >through:
+# TasX
+A Task organizer that will text you on whatsapp/notify through desktop notifications, about your upcoming tasks 
+The tasks can be Added, Viewed as well as Deleted using the GUI
+Tasks are conveyed to TasX using speech recognition
 
- > - Whatsapp
- > - Desktop Notification
- > - Email
-### Requirements:
-* Active internet connection
-* Always logged into Whatsapp web 
+#Requirements:
+1). Active internet connection
+2). Always logged into Whatsapp web 
 
-### Installation
-> Steps to run this program : 
- * Run the required.bat batch file (will download required packages/modules/libraries)
- * Run the script
-
-
-
-
-
-
-
-
-
-
-
+#Steps to use it:
+1). Run the required.bat batch file (will download required packages/modules/libraries)
+2). Run the script
