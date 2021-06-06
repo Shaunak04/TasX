@@ -4,11 +4,11 @@ The tasks can be Added, Viewed as well as Deleted using the GUI.
 Tasks are conveyed to TasX using speech recognition.
 
 ### Requirements:
-1). Active internet connection
-2). Always logged into Whatsapp web. 
-3). Python 3+
+- Active internet connection
+- Always logged into Whatsapp web. 
+-  Python 3+
 
-#Steps to use it:
+### Steps to use it:
 - Clone the repository.
 - Run the required.bat batch file (will download required packages)
 - Run the script (TasX.py).
