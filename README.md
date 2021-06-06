@@ -6,7 +6,7 @@ Tasks are conveyed to TasX using speech recognition.
 ### Requirements:
 1). Active internet connection
 2). Always logged into Whatsapp web. 
-3).  Python 3+
+3). Python 3+
 
 #Steps to use it:
 - Clone the repository.
